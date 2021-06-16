@@ -14,5 +14,5 @@ const SPREADSHEET_URL =
     })
 
 async function syncWithSheet() {
-    alert('Hi!')
+    alert('Hi!!!')
 }
